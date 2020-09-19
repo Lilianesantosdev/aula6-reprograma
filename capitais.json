@@ -1,0 +1,57 @@
+[
+    {
+        "estado": "Maranhão",
+        "populacao": "6,9 milhões",
+        "capital": "São Luís"
+    },
+    {
+        "estado": "Piauí",
+        "populacao": "3,2 milhões",
+        "capital": "Teresina"
+    },
+    {
+        "estado": "Ceará",
+        "populacao": "8,4 milhões",
+        "capital": "Fortaleza"
+    },
+    {
+        "estado": "Rio Grande do Norte",
+        "populacao": "3,4 milhões",
+        "capital": "Natal"
+    },
+    {
+        "estado": "Paraíba",
+        "populacao": "3,9 milhões",
+        "capital": "João Pessoa"
+    },
+    {
+        "estado": "Pernambuco",
+        "populacao": "9,3 milhões",
+        "capital": "Recife"
+    },
+    {
+        "estado": "Alagoas",
+        "populacao": "3,3 milhões",
+        "capital": "Maceió"
+    },
+    {
+        "estado": "Sergipe",
+        "populacao": "2,3 milhões",
+        "capital": "Aracaju"
+    },
+    {
+        "estado": "Bahia",
+        "populacao": "15,2 milhões",
+        "capital": "Salvador"
+    },
+    {
+        "estado": "Acre",
+        "populacao": "803,5 mil",
+        "capital": "Rio Branco"
+    },
+    {
+        "estado": "Amazonas",
+        "populacao": "3,9 milhões",
+        "capital": "Manaus"
+    }
+]

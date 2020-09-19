@@ -1,0 +1,52 @@
+[
+    {
+        "nome popular": "Asno-selvagem-africano ",
+        "nome cientifico": "Equus africanus",
+        "local": "continente africano"
+    },
+    {
+        "nome popular": "Foca-monge-do-Havaí",
+        "nome cientifico": "Monachus schauinslandi",
+        "local": "arquipélago havaiano"
+    },
+    {
+        "nome popular": "Lobo-vermelho",
+        "nome cientifico": "Canis rufus",
+        "local": "América do Norte "
+    },
+    {
+        "nome popular": "Elefante-asiático",
+        "nome cientifico": "Elephas maximus",
+        "local": "sudeste asiático da Índia e Nepal"
+    },
+    {
+        "nome popular": "Tigre-de-bengala",
+        "nome cientifico": "Panthera tigris tigris",
+        "local": "sul asiático"
+    },
+    {
+        "nome popular": "Atum-azul",
+        "nome cientifico": "Thunnus thynnus)",
+        "local": "mar mediterrâneo"
+    },
+    {
+        "nome popular": "Lince-ibérico",
+        "nome cientifico": "Lynx pardinus",
+        "local": "península ibérica"
+    },
+    {
+        "nome popular": "Diabo-da-tasmânia",
+        "nome cientifico": "Sarcophilus harrisii",
+        "local": "ilha da Tasmânia, Austrália"
+    },
+    {
+        "nome popular": " Kakapo",
+        "nome cientifico": "trigops habroptilus",
+        "local": "Nova Zelândia"
+    },
+    {
+        "nome popular": "Camelo bactriano ",
+        "nome cientifico": "Camelus bactrianus",
+        "local": "Ásia Central"
+    }
+]

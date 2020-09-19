@@ -1,0 +1,52 @@
+[
+    {
+        "comida": "Acarajé",
+        "local": "Bahia",
+        "caracteristicas": "massa de feijão-fradinho, cebola e sal, frita em azeite-de-dendê e pode ser servido com pimenta, camarão seco, vatapá, caruru ou salada"
+    },
+    {
+        "comida": "Maria Isabel",
+        "local": "Ceará, Maranhão e Rio Grande do Norte",
+        "caracteristicas": "base de arroz, carne seca, cebola, pimentão, cheiro verde, alho e pimenta-do-reino"
+    },
+    {
+        "comida": "Paçoca de Carne Seca",
+        "local": "nordeste",
+        "caracteristicas": "carne seca desfiada e farinha de mandioca branca"
+    },
+    {
+        "comida": "Baião de Dois",
+        "local": "Ceará",
+        "caracteristicas": "arroz, feijão, carne seca e queijo coalho"
+    },
+    {
+        "comida": "Peixada",
+        "local": "Alagoas",
+        "caracteristicas": "o alimento é preparado com batatas inglesas, molho branco ou de pimenta, leite de coco, entre outros"
+    },
+    {
+        "comida": "Moqueca de Peixe com Pirão",
+        "local": "Pernambuco, Espírito Santo e Bahia",
+        "caracteristicas": "cozido de peixe e outros frutos do mar com diferentes temperos"
+    },
+    {
+        "comida": "Arrumadinho",
+        "local": "nordeste",
+        "caracteristicas": "Unindo feijão verde ou o feijão de corda (típico do nordeste), farinha de mandioca torrada, vinagrete e uma carne que costuma ser charque desfiado"
+    },
+    {
+        "comida": "Cuscuz",
+        "local": "nordeste",
+        "caracteristicas": "mistura da farinha de milho com sal"
+    },
+    {
+        "comida": "Sarapatel",
+        "local": "nordeste",
+        "caracteristicas": "os principais ingredientes que estão presente são as partes mais gordas da barriga de porcos ou carneiros, costelas, fressuras, além de verduras, como cheiro verde, cebola e outras verduras"
+    },
+    {
+        "comida": "Tapioca",
+        "local": "nordeste",
+        "caracteristicas": "Feita com a fécula da mandioca o que muitos chamam de polvilho, goma ou farinha da mandioca"
+    }
+]

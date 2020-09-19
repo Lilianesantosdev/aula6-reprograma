@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Maido",
+        "país": "Peru",
+        "valor de consumo": " R$ 513"
+    },
+    {
+        "nome": "Disfrutar",
+        "país": "Barcelona, Espanha",
+        "valor de consumo": "R$ 655"
+    },
+    {
+        "nome": "Arpège",
+        "país": "Paris, França",
+        "valor de consumo": "R$ 1372"
+    },
+    {
+        "nome": "Mugaritz",
+        "país": "San Sebastian, Espanha",
+        "valor de consumo": "R$ 957"
+    },
+    {
+        "nome": "Central",
+        "país": "Peru",
+        "valor de consumo": "R$ 657"
+    },
+    {
+        "nome": "Geranium",
+        "país": "Copenhaguen, Dinamarca",
+        "valor de consumo": "R$ 1.500"
+    },
+    {
+        "nome": "Gaggan",
+        "país": "Bangcoc, Tailândia",
+        "valor de consumo": "R$ 741"
+    },
+    {
+        "nome": "Asador Etxebarri",
+        "país": "Atxondo, Espanha",
+        "valor de consumo": "R$ 778"
+    },
+    {
+        "nome": "Noma",
+        "país": "Copenhagen, Dinamarca",
+        "valor de consumo": "R$ 1.220"
+    },
+    {
+        "nome": "Mirazur",
+        "país": "Menton, França",
+        "valor de consumo": "R$ 478 e R$ 913"
+    }
+]

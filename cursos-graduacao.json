@@ -1,0 +1,52 @@
+[
+    {
+        "curso": "Direito ",
+        "numero de matriculas": "862,3 mil ",
+        "salario inicial": "R$ 3 mil e R$ 6,5 mil"
+    },
+    {
+        "curso": "Administração",
+        "numero de matriculas": "711 mil",
+        "salario inicial": "R$ 2,5 mil"
+    },
+    {
+        "curso": "Pedagogia",
+        "numero de matriculas": "679,3 mil",
+        "salario inicial": "R$ 1,9 mil"
+    },
+    {
+        "curso": "Engenharia Civil",
+        "numero de matriculas": "360,4 mil",
+        "salario inicial": "R$ 5 mil e os R$ 11 mil"
+    },
+    {
+        "curso": "Ciências Contábeis",
+        "numero de matriculas": "355,4 mil",
+        "salario inicial": "R$ 4,6 mil"
+    },
+    {
+        "curso": "Enfermagem",
+        "numero de matriculas": "273, 4 mil",
+        "salario inicial": "R$ 2,7 mil"
+    },
+    {
+        "curso": "Psicologia",
+        "numero de matriculas": "235,6 mil",
+        "salario inicial": "R$ 2,3 mil"
+    },
+    {
+        "curso": "Educação Física",
+        "numero de matriculas": "185, 5 mil",
+        "salario inicial": "R$ 2,8 mil"
+    },
+    {
+        "curso": "Arquitetura e Urbanismo",
+        "numero de matriculas": "167,3 mil",
+        "salario inicial": "R$ 3 mil e os R$ 5 mil"
+    },
+    {
+        "curso": "Engenharia de Produção",
+        "numero de matriculas": "165,7 mil",
+        "salario inicial": "R$ 6,2 mil"
+    }
+]
